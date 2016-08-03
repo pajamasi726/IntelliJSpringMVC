@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SrpingMVCWeb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hellow-1.0.0-BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SrpingMVCWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
